@@ -1,0 +1,24 @@
+{
+    "nimi": "Anna",
+    "vanus": 16,
+    "prillid": false,
+    "lapsed": [
+        "Inna",
+        "Mati"
+    ],
+    "koduloomad": null,
+    "autod": [
+        {
+            "muudel": "BMW",
+            "v\u00e4rv": "punane",
+            "number": "451 JBF",
+            "j\u00f5ud": 500
+        },
+        {
+            "muudel": "Ford",
+            "v\u00e4rv": "must",
+            "number": "360 GOM",
+            "j\u00f5ud": 300
+        }
+    ]
+}
